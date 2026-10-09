@@ -1,0 +1,2 @@
+// Public browser configuration. Never put service_role or database passwords here.
+window.RESEARCH_SUPABASE={url:"https://njpstuxxzdiixyyiqjum.supabase.co",publishableKey:"sb_publishable_z5wEkXQSev9BGy5bl_-G4w_ks3NM1I8"};
